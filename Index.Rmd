@@ -18,9 +18,21 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 # Entradas
+```{r cargar_Datos}
+covid <- read.csv("05_03_22_CSV_GENERAL.csv", sep = ";")
+
+```
+
+
 # Procesamiento
+
+```{r}
+
+```
+
+
 # Salidas
-##Datos cantonales
+## Datos cantonales
 ### Tabla 
 ### Grafico de lineas
 ## Datos cantonales 
